@@ -1,0 +1,12 @@
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\bin\Debug\net8.0\App.Repository.deps.json
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\bin\Debug\net8.0\App.Repository.dll
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\bin\Debug\net8.0\App.Repository.pdb
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\obj\Debug\net8.0\App.Repository.csproj.AssemblyReference.cache
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\obj\Debug\net8.0\App.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\obj\Debug\net8.0\App.Repository.AssemblyInfoInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\obj\Debug\net8.0\App.Repository.AssemblyInfo.cs
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\obj\Debug\net8.0\App.Repository.csproj.CoreCompileInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\obj\Debug\net8.0\App.Repository.dll
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\obj\Debug\net8.0\refint\App.Repository.dll
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\obj\Debug\net8.0\App.Repository.pdb
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\2-App\App\App.Repository\obj\Debug\net8.0\ref\App.Repository.dll

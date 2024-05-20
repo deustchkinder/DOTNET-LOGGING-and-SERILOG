@@ -1,0 +1,14 @@
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\bin\Debug\net8.0\App.ConsoleUI.exe
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\bin\Debug\net8.0\App.ConsoleUI.deps.json
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\bin\Debug\net8.0\App.ConsoleUI.runtimeconfig.json
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\bin\Debug\net8.0\App.ConsoleUI.dll
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\bin\Debug\net8.0\App.ConsoleUI.pdb
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\obj\Debug\net8.0\App.ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\obj\Debug\net8.0\App.ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\obj\Debug\net8.0\App.ConsoleUI.AssemblyInfo.cs
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\obj\Debug\net8.0\App.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\obj\Debug\net8.0\App.ConsoleUI.dll
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\obj\Debug\net8.0\refint\App.ConsoleUI.dll
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\obj\Debug\net8.0\App.ConsoleUI.pdb
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\obj\Debug\net8.0\App.ConsoleUI.genruntimeconfig.cache
+C:\Users\emred\OneDrive\Masaüstü\TRYCATCHLOGGING\1-App\App\App\obj\Debug\net8.0\ref\App.ConsoleUI.dll

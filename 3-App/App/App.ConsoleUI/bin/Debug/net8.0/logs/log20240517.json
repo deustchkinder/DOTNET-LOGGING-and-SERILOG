@@ -1,0 +1,10 @@
+2024-05-17 14:49:02.951 +03:00 [INF] Deneme {"Name":"Emre","Surname":"Demirkan","Age":25},49
+2024-05-17 14:49:02.988 +03:00 [INF] Deneme {"Name":"Züleyha","Surname":"Şen","Age":23},49
+2024-05-17 14:55:48.573 +03:00 [INF] Deneme {"Name":"Emre","Surname":"Demirkan","Age":25},55
+2024-05-17 14:55:48.610 +03:00 [INF] Deneme {"Name":"Züleyha","Surname":"Şen","Age":23},55
+{"@t":"2024-05-17T12:05:42.0459311Z","@mt":"Deneme {@user},{@time}","user":{"Name":"Emre","Surname":"Demirkan","Age":25},"time":5,"Application":"ConsoleUI","Environment":"Development","MachineName":"EMRE","ProcessId":25576,"ThreadId":"emred","Version":"1.0.0","CustomProperty":"CustomValue"}
+{"@t":"2024-05-17T12:05:42.0871456Z","@mt":"Deneme {@user},{@time}","user":{"Name":"Züleyha","Surname":"Şen","Age":23},"time":5,"Application":"ConsoleUI","Environment":"Development","MachineName":"EMRE","ProcessId":25576,"ThreadId":"emred","Version":"1.0.0","CustomProperty":"CustomValue"}
+{"@t":"2024-05-17T12:10:25.1900147Z","@mt":"Deneme {@user},{@time}","user":{"Name":"Emre","Surname":"Demirkan","Age":25},"time":10,"Application":"ConsoleUI","Environment":"Development","MachineName":"EMRE","ProcessId":24820,"ThreadId":"emred","Version":"1.0.0","CustomProperty":"CustomValue"}
+{"@t":"2024-05-17T12:10:25.2267248Z","@mt":"Deneme {@user},{@time}","@l":"Warning","user":{"Name":"Züleyha","Surname":"Şen","Age":23},"time":10,"Application":"ConsoleUI","Environment":"Development","MachineName":"EMRE","ProcessId":24820,"ThreadId":"emred","Version":"1.0.0","CustomProperty":"CustomValue"}
+{"@t":"2024-05-17T12:12:25.1969718Z","@mt":"Deneme {@user},{@time}","user":{"Name":"Emre","Surname":"Demirkan","Age":25},"time":12,"Application":"ConsoleUI","Environment":"Development","MachineName":"EMRE","ProcessId":24308,"ThreadId":"emred","Version":"1.0.0","CustomProperty":"CustomValue"}
+{"@t":"2024-05-17T12:12:25.2370003Z","@mt":"Deneme {@user},{@time}","@l":"Warning","user":{"Name":"Züleyha","Surname":"Şen","Age":23},"time":12,"Application":"ConsoleUI","Environment":"Development","MachineName":"EMRE","ProcessId":24308,"ThreadId":"emred","Version":"1.0.0","CustomProperty":"CustomValue"}

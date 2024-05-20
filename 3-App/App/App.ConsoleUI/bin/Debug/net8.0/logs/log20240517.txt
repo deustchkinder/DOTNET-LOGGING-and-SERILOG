@@ -1,0 +1,5 @@
+2024-05-17 14:25:57.168 +03:00 [INF] Deneme {"Name":"Emre","Surname":"Demirkan","Age":25},25
+2024-05-17 14:28:14.101 +03:00 [INF] Deneme {"Name":"Emre","Surname":"Demirkan","Age":25},28
+2024-05-17 14:28:14.143 +03:00 [INF] Deneme {"Name":"Züleyha","Surname":"Şen","Age":23},28
+2024-05-17 14:38:18.980 +03:00 [INF] Deneme {"Name":"Emre","Surname":"Demirkan","Age":25},38
+2024-05-17 14:38:19.013 +03:00 [INF] Deneme {"Name":"Züleyha","Surname":"Şen","Age":23},38

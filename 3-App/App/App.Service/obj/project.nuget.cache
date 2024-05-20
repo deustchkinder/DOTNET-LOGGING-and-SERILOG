@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8p3vfV/YyV0zLvsFBVQbTRfU1X0F0FKHqGdB0b03yTaSQK46oedajJOIGAIe5xrHzMg2OR3e/UofVjTj7qn6eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emred\\OneDrive\\Masaüstü\\TRYCATCHLOGGING\\3-App\\App\\App.Service\\App.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emred\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\emred\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

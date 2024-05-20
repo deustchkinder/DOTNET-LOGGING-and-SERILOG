@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\TRYCATCHLOGGING\\1-App\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD04DB5-BE9C-4414-81ED-4A332607F26D}|App.ConsoleUI\\App.ConsoleUI.csproj|c:\\users\\emred\\onedrive\\masa\u00FCst\u00FC\\trycatchlogging\\1-app\\app\\app.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCD04DB5-BE9C-4414-81ED-4A332607F26D}|App.ConsoleUI\\App.ConsoleUI.csproj|solutionrelative:app.consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 101,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:424922648:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\TRYCATCHLOGGING\\1-App\\App\\App.ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "App.ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\emred\\OneDrive\\Masa\u00FCst\u00FC\\TRYCATCHLOGGING\\1-App\\App\\App.ConsoleUI\\Program.cs",
+              "RelativeToolTip": "App.ConsoleUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:02:02.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
